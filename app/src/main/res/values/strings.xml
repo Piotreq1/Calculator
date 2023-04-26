@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="c">C</string>
+    <string name="d">d</string>
+    <string name="percent">%</string>
+    <string name="divide">/</string>
+    <string name="signs">+-</string>
+    <string name="c_ce">C/CE</string>
+    <string name="ac">AC</string>
+    <string name="_7">7</string>
+</resources>
